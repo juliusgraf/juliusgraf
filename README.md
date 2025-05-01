@@ -1,14 +1,19 @@
-# Julius Graf
+<!-- Profile header -------------------------------------------------------->
+<h1 align="left" style="margin-bottom:0">
+  Julius Graf
+</h1>
 
-* 👋 Hi, I’m @juliusgraf
-* 📫 How to reach me: julius.graf@berkeley.edu
+👋 Hi, I’m [@juliusgraf](https://github.com/juliusgraf), a first-year Ph.D. student at UC Berkeley, currently working on Reinforcement Learning for Auction Markets  
+📫 How to reach me: julius.graf@berkeley.edu  
+<!-- --------------------------------------------------------------------->
 
 ## Education
 
 | Institution | Degree / Focus | GPA | Location | Dates |
 |-------------|----------------|-----|----------|-------|
+| **University of California, Berkeley** |Ph.D. in Industrial Engineering & Operations Research | 4.0 / 4.0 | California, USA | July 2025 - May 2030 |
 | **University of California, Berkeley** | M.Eng. in Industrial Engineering & Operations Research (FinTech concentration) | 3.92 / 4.0 | California, USA | Aug 2024 – May 2025 |
-| **CentraleSupélec, Université Paris-Saclay** | M.Sc. & Eng. in Applied Mathematics <br><small>(expected May 2025)</small> | 3.97 / 4.0 *(Top 1 %)* | Gif-sur-Yvette, France | Sep 2022 – Jul 2024 |
+| **CentraleSupélec, Université Paris-Saclay** | M.Sc. & Eng. in Applied Mathematics <br><small>(expected May 2025)</small> | 3.97 / 4.0 (Top 1%) | Paris, France | Sep 2022 – Jul 2024 |
 | **Lycée Louis-le-Grand** | Classes Préparatoires MPSI-MP* — Major Math, Minor Physics | 4.0 / 4.0 | Paris, France | Sep 2020 – Aug 2022 |
 
 ## Projects
