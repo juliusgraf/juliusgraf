@@ -11,5 +11,4 @@
        target="_blank" rel="noopener">Trace-Constrained PSD-Matrix Completion via Frank-Wolfe</a>
 * ⏳ <a href="IEOR_222_Group_F.pdf"
        target="_blank" rel="noopener">On "Optimal auction duration: A price formation viewpoint" by Jusselin, Mastrolia, and Rosenbaum</a>
-* 📈 <a href="262B_Isotonic_Regression.pdf"
-       target="_blank" rel="noopener">A Comparative Study of L<sup>1</sup>-Regularized and Nearly-Isotonic Regression</a>
+* 📈 [A Comparative Study of $L^{1}$-Regularized and Nearly-Isotonic Regression](262B_Isotonic_Regression.pdf){:target="_blank" rel="noopener"}
