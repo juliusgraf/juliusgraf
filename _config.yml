@@ -1,4 +1,0 @@
-theme: minima        # or whatever theme you use
-markdown: kramdown   # default, but be explicit
-include:
-  - _includes/mathjax.html
